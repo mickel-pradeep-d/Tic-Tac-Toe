@@ -15,3 +15,11 @@ A colorful and interactive Tic Tac Toe game built using **HTML**, **CSS**, and *
 - **CSS**: Styling for a colorful and engaging user experience.
 - **JavaScript**: Game logic and interactivity.
 
+## **Contributing**
+
+Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
+
+## **Author**
+
+**Mickel Pradeep D**
+
